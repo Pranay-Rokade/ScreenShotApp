@@ -1,5 +1,4 @@
 # Screenshot App
-
 A simple Python application to take screenshots of your desktop.
 
 ## Features
