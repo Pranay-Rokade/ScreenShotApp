@@ -1,8 +1,7 @@
 # Screenshot App
 
-🖥️ Snap your screen in seconds!  
-✅ Fullscreen capture  
-✅ PNG, JPEG, etc.  
-✅ Set your save location  
-Built with Python + Tkinter + PyAutoGUI 🚀  
-#opensource #python
+**What is it?** A Python-based screen capture app  
+**Why use it?** Fast, simple, format-flexible  
+**How does it work?** Uses PyAutoGUI + Tkinter  
+**Who is it for?** Anyone needing quick, clean screenshots  
+**Where does it save?** Wherever *you* choose
