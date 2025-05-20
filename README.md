@@ -1,7 +1,3 @@
 # Screenshot App
 
-**v1.0 Initial Release**  
-- Added full-screen capture functionality  
-- Enabled support for PNG, JPEG saving  
-- Implemented directory selection UI using Tkinter  
-- Integrated PyAutoGUI for image grabbing
+"I built a desktop screenshot application using Python. It captures the entire screen, saves images in multiple formats, and includes a Tkinter GUI to let users pick where to save files. PyAutoGUI handles the core screenshot function."
