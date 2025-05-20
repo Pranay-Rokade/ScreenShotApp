@@ -1,2 +1,10 @@
 # Screenshot App
-Capture your screen effortlessly with our Python-powered Screenshot App. It’s user-friendly, format-flexible (PNG, JPEG, etc.), and lets you choose exactly where to save your shots.
+
+**Application Name:** Screenshot App  
+**Language:** Python 3.x  
+**Dependencies:** Tkinter, PyAutoGUI  
+**Functions:**  
+- Full-screen screenshot capture  
+- Save in multiple image formats  
+- UI built with Tkinter  
+- Custom save location support
