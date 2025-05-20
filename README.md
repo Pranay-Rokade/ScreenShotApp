@@ -1,3 +1,3 @@
 # Screenshot App
 
-This Screenshot App is a lightweight desktop utility written in Python. It allows users to grab full-screen screenshots, select from multiple image file formats like PNG or JPEG, and choose their preferred save directory using a clean, intuitive Tkinter interface.
+Want to take a screenshot without using complicated tools? This app is made in Python and helps you snap your whole screen and save the picture wherever you want, in formats like PNG or JPEG. It has a simple window so you can easily click and go!
