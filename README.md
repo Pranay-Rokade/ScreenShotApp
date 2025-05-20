@@ -1,3 +1,7 @@
 # Screenshot App
 
-"I built a desktop screenshot application using Python. It captures the entire screen, saves images in multiple formats, and includes a Tkinter GUI to let users pick where to save files. PyAutoGUI handles the core screenshot function."
+**Project Type:** Desktop Utility  
+**Educational Value:**  
+- Teaches basic GUI design with Tkinter  
+- Demonstrates automation with PyAutoGUI  
+- Introduces image format handling and file dialogs in Python
