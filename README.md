@@ -1,7 +1,4 @@
 # Screenshot App
 
-**What is it?** A Python-based screen capture app  
-**Why use it?** Fast, simple, format-flexible  
-**How does it work?** Uses PyAutoGUI + Tkinter  
-**Who is it for?** Anyone needing quick, clean screenshots  
-**Where does it save?** Wherever *you* choose
+📷 Screenshot App (Python)  
+Take screenshots via GUI with support for PNG, JPEG, and more. Built using Tkinter for UI and PyAutoGUI for image capture. Select your output directory with ease!
