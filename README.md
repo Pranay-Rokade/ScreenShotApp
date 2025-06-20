@@ -1,5 +1,4 @@
 # Screenshot App
-
 **Project Type:** Desktop Utility  
 **Educational Value:**  
 - Teaches basic GUI design with Tkinter  
